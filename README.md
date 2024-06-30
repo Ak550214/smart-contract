@@ -27,8 +27,8 @@ code blocks for commands
 
 ## Authors
 
-ex. Arpan Kumar  
-ex. [ironextreme5@gmail.com]
+   Arpan Kumar  
+   [ironextreme5@gmail.com]
 
 
 ## License
